@@ -1,0 +1,13 @@
+prefix=/Users/zichenfan/Documents/xBD/enve
+exec_prefix=/Users/zichenfan/Documents/xBD/enve
+libdir=/Users/zichenfan/Documents/xBD/enve/lib
+sharedlibdir=/Users/zichenfan/Documents/xBD/enve/lib
+includedir=/Users/zichenfan/Documents/xBD/enve/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

@@ -1,0 +1,19 @@
+==> 2025-08-22 10:52:15 <==
+# cmd: /Users/zichenfan/opt/anaconda3/bin/conda create -p enve python==3.8
+# conda version: 22.11.1
++defaults/osx-64::ca-certificates-2025.7.15-hecd8cb5_0
++defaults/osx-64::libcxx-19.1.7-haebbb44_3
++defaults/osx-64::libedit-3.1.20230828-h6c40b1e_0
++defaults/osx-64::libffi-3.2.1-h0a44026_1007
++defaults/osx-64::ncurses-6.5-h923df54_0
++defaults/osx-64::openssl-1.1.1w-hca72f7f_0
++defaults/osx-64::pip-24.2-py38hecd8cb5_0
++defaults/osx-64::python-3.8.0-h359304d_2
++defaults/osx-64::readline-7.0-h1de35cc_5
++defaults/osx-64::setuptools-75.1.0-py38hecd8cb5_0
++defaults/osx-64::sqlite-3.33.0-hffcf06c_0
++defaults/osx-64::tk-8.6.15-h3a5a201_0
++defaults/osx-64::wheel-0.44.0-py38hecd8cb5_0
++defaults/osx-64::xz-5.6.4-h46256e1_1
++defaults/osx-64::zlib-1.2.13-h4b97444_1
+# update specs: ['python==3.8']
