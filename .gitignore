@@ -1,0 +1,20 @@
+# Data & outputs
+data/
+runs/
+*.ckpt
+*.pt
+*.pth
+*.tif
+*.tiff
+*.zip
+*.tar
+*.gz
+*.7z
+*.mp4
+*.mov
+*.avi
+*.npy
+*.npz
+*.parquet
+__pycache__/
+.DS_Store
