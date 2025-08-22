@@ -1,0 +1,25 @@
+torch>=2.2
+torchvision==0.17.2
+segmentation-models-pytorch==0.3.3
+albumentations==1.4.4
+opencv-python>=4.8, <4.10
+pillow>=10.2, <11
+
+#geo
+shapely>=2.0
+rasterio>=1.3
+#geopandas>=0.14,<0.15
+pyproj
+
+#Graph NN
+torch-geometric>=2.5
+
+#metrics & logs 
+pandas
+numpy
+scikit-learn
+rich>=13.7
+pyyaml>=6.0
+
+
+

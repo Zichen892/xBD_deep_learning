@@ -1,0 +1,23 @@
+seed: 1337
+num_workers: 0
+
+#image_size
+img_size = 512
+
+loc:
+  encoder: resnet34
+  lr: 1.0e-4
+  batch_size: 2
+  epochs: 20 
+
+damage:
+  encoder: resnet34
+  p: 7
+  q: 4
+  graph_threshold_px: 260
+  lr: 1.0e-4
+  batch_size: 2
+  epochs:25
+  gamma: 2.0  #focal gamma 
+  beta: 0.2.  #weight to mix focal with CCE
+  
