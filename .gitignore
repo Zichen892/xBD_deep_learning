@@ -17,4 +17,6 @@ runs/
 *.npz
 *.parquet
 __pycache__/
-.DS_Store
+.DS_Storeenve/
+.venv/
+env/
